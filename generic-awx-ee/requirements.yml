@@ -1,0 +1,20 @@
+---
+collections:
+#- amazon.aws
+#- ansible.posix
+- ansible.windows
+- microsoft.ad
+#- awx.awx
+#- azure.azcollection
+#- community.vmware
+#- google.cloud
+#- kubernetes.core
+#- openstack.cloud
+#- ovirt.ovirt
+#- redhatinsights.insights
+#- theforeman.foreman
+- dellemc.openmanage
+- community.hashi_vault
+- netbox.netbox
+- community.windows
+- chocolatey.chocolatey
